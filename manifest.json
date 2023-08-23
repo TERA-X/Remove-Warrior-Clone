@@ -1,0 +1,12 @@
+{
+    "files": {
+        "config.json": "893bed4e4229881fc64d478076a039e502a1bbb0e4079ebd3fba5a9e33f43e03",
+        "index.js": "01455c94f03209e93894c411b0531e14015a146245b888f3b0216050ec6076db",
+        "module.json": "2dfb6a184c01e91b9b25ecec49f13bfad01a3330115a0edf92f9c5025ee59b1e",
+        "settings_migrator.js": "91e13b78cd5cbfe83407f85e922f64e87e1d9e7a50a5e20130965790e49cb903"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": "*",
+        "S_ABNORMALITY_REFRESH": "*"
+    }
+}

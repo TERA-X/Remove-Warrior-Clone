@@ -1,0 +1,15 @@
+{
+    "name": "Remove-Warrior-Clone",
+    "author": "KYGAS",
+    "description": "A fix for players experiencing issues with warrior clone buff.",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/Remove-Warrior-Clone/master/"],
+    "options": {
+        "cliName": "Remove-Warrior-Clone",
+        "guiName": "Remove-Warrior-Clone",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "disableAutoUpdate": false
+}
