@@ -3,7 +3,7 @@
     "author": "KYGAS",
     "description": "A fix for players experiencing issues with warrior clone buff.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/Remove-Warrior-Clone/master/"],
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/Remove-Warrior-Clone/master/"],
     "options": {
         "cliName": "Remove-Warrior-Clone",
         "guiName": "Remove-Warrior-Clone",
